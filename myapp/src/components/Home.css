@@ -1,0 +1,50 @@
+
+
+h1 {
+  text-align: center;
+  font-size: 3rem;
+  color: white;
+  background-color: #007bff;
+  padding: 1rem;
+}
+
+
+table {
+  margin: 0 auto;
+  width: 80%;
+  border-collapse: collapse;
+}
+
+
+th {
+  background-color: #007bff;
+  color: white;
+  padding: 0.5rem;
+}
+
+td {
+  background-color: #f0f0f0;
+  padding: 0.5rem;
+}
+
+tr:hover {
+  background-color: #d0d0d0;
+}
+
+button {
+  margin: 0.5rem;
+  border: none;
+  border-radius: 0.25rem;
+}
+
+button:hover {
+  transform: scale(1.1);
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+.create-button {
+  display: block;
+  margin: 0 auto;
+  width: 20%;
+  background-color: #28a745;
+  color: white;
+}
